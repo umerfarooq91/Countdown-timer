@@ -47,3 +47,8 @@ input{
     text-align: center;
     font-size: 50px;
 }
+@media (max-width:600px) {
+    .col{
+        width: 100%;
+    }
+}
