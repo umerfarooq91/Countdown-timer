@@ -47,10 +47,3 @@ input{
     text-align: center;
     font-size: 50px;
 }
-@media screen and (max-width:600px) {
-    input{
-        font-size: 30px;
-        width: 30%;
-        height: 50px;
-    }
-}
